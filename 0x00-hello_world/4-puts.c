@@ -2,11 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 /**
- * main - A pragram that print a line with puts fanctio
+ * main
  *
  * Return: Always 0 (Success)
  */
-int main() {
-    puts("Programming is like building a multilingual puzzle");
+int main()
+{
+    puts("\"Programming is like building a multilingual puzzle\"");
     return 0;
 }
