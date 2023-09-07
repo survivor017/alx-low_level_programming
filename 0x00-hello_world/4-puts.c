@@ -1,5 +1,6 @@
+#include <stdoi.h>
 /**
- * main - Entry point
+ * main - A pragram that print a line with puts fanctio
  *
  * Return: Always 0 (Success)
  */
