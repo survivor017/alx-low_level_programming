@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * main - Entry point
+ *
  * main - A pragrame that print size
  *
  * Return: Always 0 (success)
