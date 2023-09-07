@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - A pragrame that print size
+ * Return (0)
+ */  
 
 int main(void)
 {
