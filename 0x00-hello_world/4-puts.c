@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.n>
+#include <stdlib.h>
 /**
  * main - A pragram that print a line with puts fanctio
  *
@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
+	puts("Programming is like building a multilingual puzzle")i;
 	
 	return (0);
 }
