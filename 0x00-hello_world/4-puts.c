@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.n>
 /**
  * main - A pragram that print a line with puts fanctio
  *
