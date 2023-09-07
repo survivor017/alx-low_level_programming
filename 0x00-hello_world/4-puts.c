@@ -1,4 +1,3 @@
-#include <stdoi.h>
 /**
  * main - A pragram that print a line with puts fanctio
  *
