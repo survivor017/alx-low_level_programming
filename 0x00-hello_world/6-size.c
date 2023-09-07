@@ -3,8 +3,6 @@
  *
  *main - A  program size data types
  *
- *Description: This program prints the size of various data types.
- *
  *Return: Always 0 (success)
  */
 int main(void)
