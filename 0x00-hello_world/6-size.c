@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
- * Description: pragrame that print size
+ * Description: This pragrame that print size.
  *
  * Return: Always 0 (success)
  *
