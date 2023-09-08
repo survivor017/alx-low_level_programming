@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ * main program that print n,p,z.
+ */
 int main() {
     int n;
 
