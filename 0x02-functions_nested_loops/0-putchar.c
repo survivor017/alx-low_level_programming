@@ -6,8 +6,9 @@
  * Return: always 0 
  */
 
-void _putchar(char c){
-	_putchar(c);
+void _putchar(char c)
+{
+	return write(1, &c, 1);
 }
 int main (void)
 {
@@ -20,6 +21,7 @@ int main (void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return 0;
 
 }
